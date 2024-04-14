@@ -1,7 +1,7 @@
 
 
 ## Git basics 
-
+godo editing 
 1. Initialize the repository: The very first step in git is git initialization. It is done using the git init command. The command creates a new .git subdirectory in your current working directory
 ```shell
 git init
